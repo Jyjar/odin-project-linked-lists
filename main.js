@@ -9,7 +9,4 @@ list.append("hamster");
 list.append("snake");
 list.append("turtle");
 
-list.insertAt("rabbit", 6);
-
-
-console.log(list);
+console.log(list.toString());
